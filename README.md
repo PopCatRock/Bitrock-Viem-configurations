@@ -147,3 +147,6 @@ If you’d like to contribute to this project, please feel free to fork the repo
 License
 
 This project is licensed under the MIT License.
+
+## Support us
+**EVM:** 0xd3f4A57d684f50f8032EF9d419d702f384240EEd
